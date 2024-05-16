@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82808655280",
+    "project_id": "timer-app-8d72d",
+    "storage_bucket": "timer-app-8d72d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82808655280:android:3477478d5a0c144aa3da75",
+        "android_client_info": {
+          "package_name": "com.amitghasoliya.timerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkA49AxYJ5yOSDBO8q3AwlBVqb6WfMe2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
